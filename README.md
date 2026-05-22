@@ -127,7 +127,7 @@ cd AI-Recommendation-System
 ## 3️⃣ Run the Python File
 
 ```bash
-python main.py
+python recommendation.py
 ```
 
 ---
