@@ -40,9 +40,8 @@ It is a beginner-friendly project that helps in understanding the core logic beh
 ```bash
 AI-Recommendation-System/
 │
-├── main.py
 ├── README.md
-└── requirements.txt
+└── recommendation.py
 ```
 
 ---
