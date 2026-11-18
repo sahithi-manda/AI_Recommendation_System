@@ -111,7 +111,7 @@ Your interests: coding, ai
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Recommendation-System.git
+git clone https://github.com/sahithi-manda/AI_Recommendation_System.git
 ```
 
 ---
@@ -119,7 +119,7 @@ git clone https://github.com/your-username/AI-Recommendation-System.git
 ## 2️⃣ Open the Project Folder
 
 ```bash
-cd AI-Recommendation-System
+cd AI_Recommendation_System
 ```
 
 ---
